@@ -24,8 +24,15 @@ I enjoy turning ambiguous business and engineering problems into maintainable sy
 
 ## Writing and research
 
-I share practical engineering lessons, experiments, and architecture decisions on [LinkedIn](https://www.linkedin.com/in/mohammad-sharaf-ali/), including work around NetSuite AI, MCP, agents, browser security, and the evolution of AI-assisted software development.
+I publish practical NetSuite engineering research through my [Folio3 author profile](https://netsuite.folio3.com/author/msharaf/) and share shorter experiments and architecture notes on [LinkedIn](https://www.linkedin.com/in/mohammad-sharaf-ali/).
+
+Selected articles:
+
+- [NetSuite Inventory Image Matching: Testing Classical Machine Learning](https://netsuite.folio3.com/blog/netsuite-inventory-image-matching-testing-classical-machine-learning/)
+- [NetSuite Tips and Tricks: Practical Lessons from Real-World Development](https://netsuite.folio3.com/blog/netsuite-tips-and-tricks-practical-lessons-from-real-world-development/)
+- [NetSuite Transaction Anomaly Detection with Autoencoders](https://netsuite.folio3.com/blog/netsuite-transaction-anomaly-detection-with-autoencoders/)
+- [NetSuite Map/Reduce Script Guide: Concurrency, Governance, Yielding & Restarts](https://netsuite.folio3.com/blog/netsuite-map-reduce-script-guide-concurrency-governance-yielding-restarts/)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-sharaf-ali/) · [Gists](https://gist.github.com/surferxo3) · [Email](mailto:justushay@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohammad-sharaf-ali/) · [Folio3 author profile](https://netsuite.folio3.com/author/msharaf/) · [Gists](https://gist.github.com/surferxo3) · [Email](mailto:justushay@gmail.com)
